@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 offline
+=======
+on line
+>>>>>>> b6df4da26868f53fe66bf7fcd921fa508f335e09
